@@ -1,0 +1,5 @@
+/* Cascade style sheet based on people.dtd DTD */
+people { display: block ;color:beige}
+person { display: block }
+firstname { display: block }
+lastname { display: block }
